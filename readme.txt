@@ -1,4 +1,4 @@
-=== H3 ===
+=== H3 Theme ===
 Contributors: Human Made Limited
 Requires at least: 6.0
 Tested up to: 6.5.2
@@ -8,7 +8,7 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 == Description ==
 
-Block theme version of H2
+Block theme version of H2, the Human Made internal communication site, which was origin itself originally inspired by Automattic's P2.
 
 == Changelog ==
 
