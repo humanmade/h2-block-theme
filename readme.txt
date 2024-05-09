@@ -8,11 +8,11 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 == Description ==
 
-Block theme version of H2, the Human Made internal communication site, which was origin itself originally inspired by Automattic's P2.
+EXPERIMENT Block theme version of H2, the Human Made internal communication site, which was origin itself originally inspired by Automattic's P2.
 
 == Changelog ==
 
-= 1.0.0 =
+= 0.1.0 =
 * Initial release
 
 == Copyright ==
